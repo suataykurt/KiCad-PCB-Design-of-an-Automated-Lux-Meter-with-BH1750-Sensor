@@ -1,0 +1,1 @@
+# KiCad-PCB-Design-of-an-Automated-Lux-Meter-with-BH1750-Sensor
